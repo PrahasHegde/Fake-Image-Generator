@@ -1,0 +1,1 @@
+This script is designed to create and train a Deep Convolutional Generative Adversarial Network (DCGAN) to generate images. It uses the CIFAR-10 dataset (a set of 32x32 color images across ten classes) as a foundation for training.
